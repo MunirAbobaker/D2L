@@ -1,4 +1,4 @@
-# dockercon-2021-demo
+# D2L: Deep learning educational
 
 Repository containing scaffolding for a Python 3-based data science project using the [scikit-learn](https://scikit-learn.org/stable/) ecosystem. 
 Used as a demo for my DockerCon 2021 talk *Conda (+pip) and Docker FTW!*.
